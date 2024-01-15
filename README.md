@@ -1,0 +1,3 @@
+- Hi, I’m @michaelcreates0!
+- I’m currently learning python and javascript
+- Pronouns: he/him/his
